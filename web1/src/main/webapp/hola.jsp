@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<%out.println("Hola JSP 2");%>
+<%out.println("Hola JSP 3");%>
 </body>
 </html>
